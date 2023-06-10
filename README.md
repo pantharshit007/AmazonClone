@@ -1,1 +1,2 @@
 # AmazonClone
+# using HTML + CSS
