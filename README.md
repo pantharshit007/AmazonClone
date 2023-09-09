@@ -1,7 +1,5 @@
 # AmazonClone
-<<<<<<< HEAD
 
-Amazon Clone
 =======
 # using HTML + CSS
 
